@@ -5,4 +5,4 @@ models the collision of two protons (p + p) resulting in a proton (p), a neutron
 #The particles are created at random speeds, so the patterns will always be unique. (which is really cool but sometimes it keeps colliding and produces like 100 particles!)
 
 #to see how it works open this that links to my work
-[Link here](https://colab.research.google.com/drive/1qWvhOPAB6fdfmvo2OA1xGDwk-BUsavbl?usp=sharing)
+[Particle Accelerator simulation](https://colab.research.google.com/drive/1qWvhOPAB6fdfmvo2OA1xGDwk-BUsavbl?usp=sharing)
