@@ -6,6 +6,7 @@ Used a circular boundary for the simulation, similar to a cyclotron. This bounda
 #The particles are created at random speeds, so the patterns will always be unique. (which is really cool but sometimes it keeps colliding and produces like 100 particles!)
 
 **In essence, this code provides a simplified yet visually appealing way to understand the basic concepts of particle collisions, similar to those that occur in high-energy physics experiments like the LHC.**
+
 To see how it works open this that links to my work:
 **[Particle Accelerator simulation](https://colab.research.google.com/drive/1qWvhOPAB6fdfmvo2OA1xGDwk-BUsavbl?usp=sharing)**
 
